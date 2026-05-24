@@ -9,8 +9,6 @@ This is an exploratory data analysis project investigating whether critic recept
 
 It started as a question I couldn't find a clean answer to, so I built one!
 
----
-
 ## The Questions
 
 1. Do games with strong Metacritic scores produce positive abnormal returns in the launch window?
@@ -18,16 +16,12 @@ It started as a question I couldn't find a clean answer to, so I built one!
 3. And the interesting one - does the market already know? Are heavily anticipated franchises 
    already priced in before launch day?
 
----
-
 ## Stack
 
 - Python: pandas, numpy, matplotlib, seaborn, scipy
 - RAWG Video Games Database API: game titles, release dates, Metacritic scores
 - yfinance: daily adjusted stock prices
 - Jupyter Notebook
-
----
 
 ## Structure
 ```
@@ -37,13 +31,8 @@ data/                 # generated CSVs (gitignored)
 requirements.txt      # dependencies
 ```
 
-
----
-
 ## Status
 
 Work in progress. Analysis covers 2013–2025.
-
----
 
 > Lavanya Kamble | *BSc Computer Science, Royal Holloway University of London*
