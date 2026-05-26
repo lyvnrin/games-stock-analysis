@@ -5,7 +5,7 @@
 
 I've always been curious about the point where culture and markets intersect - where something as subjective as a review score becomes a number that might, just maybe, move a stock price.
 
-This is an exploratory data analysis project investigating whether critic reception and sales performance of major video game releases correlate with short-term stock price movement in their parent publishers. The publishers under the microscope are **EA**, **Activision Blizzard**, and **Ubisoft** - three of the largest Western publishers with consistent release histories across the period of interest.
+This is an exploratory data analysis project investigating whether critic reception and sales performance of major video game releases correlate with short-term stock price movement in their parent publishers. The publishers under the microscope are **EA**, **Takes Two**, and **Ubisoft** - three of the largest Western publishers with consistent release histories across the period of interest.
 
 It started as a question I couldn't find a clean answer to, so I built one!
 
