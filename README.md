@@ -20,7 +20,7 @@ It started as a question I couldn't find a clean answer to, so I built one!
 
 - Python: pandas, numpy, matplotlib, seaborn, scipy
 - RAWG Video Games Database API: game titles, release dates, Metacritic scores
-- yfinance: daily adjusted stock prices
+- yfinance (yahoo finance): daily adjusted stock prices
 - Jupyter Notebook
 
 ## Structure
