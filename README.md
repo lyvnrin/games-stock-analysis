@@ -1,7 +1,4 @@
 # Do Games Actually Move the Market?
-### A data analysis project by Lavanya Kamble
-
----
 
 I've always been curious about the point where culture and markets intersect - where something as subjective as a review score becomes a number that might, just maybe, move a stock price.
 
